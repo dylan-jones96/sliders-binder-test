@@ -4,6 +4,3 @@ ipywidgets
 tables
 bqplot
 voila
-ipympl
-ipyvolume
-scipy
