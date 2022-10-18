@@ -1,6 +1,6 @@
 # sliders-binder-test
 
-https://mybinder.org/v2/gh/dylan-jones96/sliders-binder-test/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dylan-jones96/sliders-binder-test/HEAD)
 
 First binder configuration for displaying band structures with parameter varying sliders. 
 
