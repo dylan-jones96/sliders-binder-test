@@ -40,7 +40,6 @@ Pygments
 pyparsing
 pyrsistent
 python-dateutil
-pywinpty
 pyzmq
 Send2Trash
 six
