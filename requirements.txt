@@ -1,10 +1,12 @@
-numpy
-matplotlib
-ipywidgets
-tables
 bqplot
-voila
 ipympl
 ipython
 ipyvolume
+ipyvuetify
+ipywidgets
+numpy
+matplotlib
 scipy
+tables
+voila
+voila-vuetify
